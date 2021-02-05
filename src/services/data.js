@@ -16,7 +16,7 @@ const githubRepos = {
 		frontend: "https://github.com/sylviapap/racoon-frontend",
 		backend: "https://github.com/sylviapap/racoon-backend",
 	},
-	socialApe: "https://github.com/medsep/Social-Media-App",
+	socialApe: "https://github.com/medsep/Social-network-project",
 	talkr: "https://github.com/sylviapap/TalkR",
 	subscription: "https://github.com/sylviapap/client-subscription-app",
 	whack: "https://github.com/sylviapap/whack-a-virus",
