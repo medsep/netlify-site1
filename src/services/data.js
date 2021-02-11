@@ -40,48 +40,48 @@ export const projects = [
 export const skills = [
 	{
 		name: "Python",
-		href: 
+		
 	},
 	{
 		name: "Java",
-		href: Java,
+		
 	},
 	{
 		name: "JavaScript",
-		href: 
+		
 	},
 	{
 		name: ".Net",
-		href: githubRepos.CSharp,
+		
 	},
 	{
 		name: "Rails",
-		href: talkr,
+		
 	},
 	{
 		name: "React",
-		href: 
+		 
 	},
 	{
 		name: "CSS",
-		href: 
+		 
 	},
 	{
 		name: "HTML",
-		href: 
+		
 	},
 	{
 		name: "Test Driven Development",
-		href: 
+		
 	},
 	{
 		name: "Data Structures & Algorithms",
-		href: data.leetCode,
+		
 	},
 
 	{
 		name: "AWS",
-		href: githubRepos.AWS,
+		
 	},
 ];
 
