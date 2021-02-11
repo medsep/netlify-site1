@@ -12,26 +12,13 @@ export const data = {
 };
 
 const githubRepos = {
-	racoon: {
-		frontend: "https://github.com/sylviapap/racoon-frontend",
-		backend: "https://github.com/sylviapap/racoon-backend",
-	},
+	
 	socialApe: "https://github.com/medsep/Social-network-project",
-	talkr: "https://github.com/sylviapap/TalkR",
-	subscription: "https://github.com/sylviapap/client-subscription-app",
-	whack: "https://github.com/sylviapap/whack-a-virus",
-	chatbot: "https://github.com/sylviapap/chatbot",
-	cli: "https://github.com/sylviapap/ruby-cli-app",
-	python: "https://github.com/sylviapap/python-project",
+	
 };
 
 const liveSiteURLs = {
-	racoon: "https://racoon.digital/",
-	twitterClone: "https://sylvia-twitter.netlify.app/",
-	talkr: "https://translation-chat-app.herokuapp.com/",
-	subscription: "https://subscribr.netlify.app/",
-	whack: "https://sylviapap.github.io/whack-a-virus/",
-	chatbot: "https://sylviapap.github.io/chatbot/",
+	
 };
 
 const blogURLs = {
