@@ -40,15 +40,15 @@ export const projects = [
 export const skills = [
 	{
 		name: "Python",
-		href: githubRepos.python,
+		href: 
 	},
 	{
 		name: "Java",
-		href: githubRepos.Java,
+		href: Java,
 	},
 	{
 		name: "JavaScript",
-		href: githubRepos.chatbot,
+		href: 
 	},
 	{
 		name: ".Net",
@@ -56,23 +56,23 @@ export const skills = [
 	},
 	{
 		name: "Rails",
-		href: githubRepos.talkr,
+		href: talkr,
 	},
 	{
 		name: "React",
-		href: githubRepos.racoon.frontend,
+		href: 
 	},
 	{
 		name: "CSS",
-		href: githubRepos.whack,
+		href: 
 	},
 	{
 		name: "HTML",
-		href: githubRepos.twitterClone,
+		href: 
 	},
 	{
 		name: "Test Driven Development",
-		href: githubRepos.racoon.backend,
+		href: 
 	},
 	{
 		name: "Data Structures & Algorithms",
